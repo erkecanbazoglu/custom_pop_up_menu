@@ -33,7 +33,7 @@ class CustomPopupMenu extends StatefulWidget {
     required this.menuBuilder,
     required this.pressType,
     this.controller,
-    this.arrowColor = const Color(0xFF4C4C4C),
+    this.arrowColor = Colors.white38,
     this.showArrow = true,
     this.barrierColor = Colors.black12,
     this.arrowSize = 10.0,
